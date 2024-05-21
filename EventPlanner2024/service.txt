@@ -1,0 +1,5 @@
+300 , 700 , Decoration , Theme_Decoration_Package , Customized_theme_decoration_services , 400.0 , available
+400 , 700 , Audiovisual , Sound_and_Lighting_Rental , High-quality_sound_and_lighting_equipment_rental , 800.0 , not_available
+500 , 3333 , Decoration , Theme_Decoration_by_AhmadH , Customized_theme_decoration , 300.0 , not_available
+100 , 700 , Photography , Full_Event_Coverage , Professional_photography_coverage_event , 600.0 , available
+200 , 700 , Entertainment , service2 , Professional_live_music_performance , 350.0 , available

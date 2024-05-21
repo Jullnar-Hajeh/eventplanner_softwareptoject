@@ -1,0 +1,3 @@
+700 , Ahamd , 0594857388 , yafa , ahmad@gmail.com , 777 
+3333 , ahmad , 4848362889 , nablus , ahmadH@gmail.com , 3000
+testId , testName , 1234567890 , testAddress , test@example.com , testPassword

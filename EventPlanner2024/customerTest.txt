@@ -1,0 +1,2 @@
+12114777,Ansam,057806241,Nablus,ansam@gmail.com,password
+12345678,John,1234567890,New York,john@example.com,password
